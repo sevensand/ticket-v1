@@ -1,0 +1,54 @@
+.login-background {
+  background: url('/img/12.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.login-card {
+  background-color: rgba(0, 0, 0, 0.6)
+}
+.login-logo {
+  width: 80%;
+  height: 80%;
+  display:block;
+  margin:auto;
+}
+.login-avt {
+  display:block;
+  margin:auto;
+}
+.login-input {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 0px 20px 20px 0px;
+}
+
+.login-span {
+    border-radius: 20px 0px 0px 20px;
+}
+.login-btn {
+  display:block;
+  margin:auto;
+}
+
+.reg-form {
+  padding-right: 0px;
+  padding-left: 0px;
+  border-right: 0px;
+  border-radius: 20px 10px 10px 10px;
+}
+.reg-form-right {
+  background-image: url('/img/regbg1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height:  515px;
+}
+
+.application--wrap {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.dashboard_logo {
+  width: 70%;
+  height: 70%;
+}
